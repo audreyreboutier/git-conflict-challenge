@@ -1,1 +1,2 @@
-# git-conflict-challenge - je modifie la ligne sur gitHub
+# git-conflict-challenge - 
+je modifie la ligne sur gitHub
