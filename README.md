@@ -1,1 +1,2 @@
-# git-conflict-challenge
+# git-conflict-challenge 
+je modifie ligne vscode
